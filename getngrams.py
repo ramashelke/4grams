@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  2 19:00:45 2020
-
-@author: Priyank Shah
-"""
-
-
-
 
 import nltk,re
 from nltk.tokenize import sent_tokenize
